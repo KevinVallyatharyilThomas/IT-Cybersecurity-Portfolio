@@ -9,6 +9,7 @@ Kevin's lab demonstrates the end-to-end deployment of a modern cloud infrastruct
 
 ---
 
+
 ## Technologies Used
 The following technologies were utilized throughout the lab:
 - **Microsoft 365 / Entra ID** for identity and productivity services
@@ -93,3 +94,16 @@ The lab included rigorous testing:
 
 ## Conclusion
 This portfolio showcases Kevin's hands-on expertise in building a secure, scalable, and automated cloud-centric organization. It reflects real-world skills in cloud security, device management, and infrastructure automation.
+
+```mermaid
+flowchart TD
+    A[Users & Devices] --> B[Intune + Autopilot]
+    B --> C[Microsoft 365 Tenant]
+    C --> D[Exchange / SharePoint / Teams / OneDrive]
+    C --> E[Defender for Office 365 & Endpoint]
+    E --> F[Microsoft Sentinel (SIEM)]
+    F --> G[SOAR Playbooks / Automated Response]
+    A --> H[Android Devices via Managed Google Play]
+    H --> B
+    A --> I[Cloudflare DNS & Zero Trust]
+    I --> C
