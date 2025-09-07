@@ -4,12 +4,12 @@ This portfolio presents a comprehensive walkthrough of setting up a secure, clou
 
 ---
 
-## 4cc Overview
+## Overview
 Kevin's lab demonstrates the end-to-end deployment of a modern cloud infrastructure. It begins with domain registration and DNS setup, followed by Microsoft 365 tenant creation, device management, security policy enforcement, SIEM integration, and Zero Trust architecture using Cloudflare.
 
 ---
 
-## 6e0e0f Technologies Used
+## Technologies Used
 The following technologies were utilized throughout the lab:
 - **Microsoft 365 / Entra ID** for identity and productivity services
 - **Microsoft Intune** for device management and policy enforcement
@@ -21,7 +21,7 @@ The following technologies were utilized throughout the lab:
 
 ---
 
-## 9ed Step-by-Step Setup
+## Step-by-Step Setup
 
 ### 1. Domain Registration & DNS
 Kevin registered a domain via Namecheap and transferred DNS management to Cloudflare. This enabled future integration with Cloudflare Zero Trust.
@@ -58,7 +58,7 @@ Cloudflare Zero Trust was configured using Terraform. Identity providers, access
 
 ---
 
-## 510 Security Features
+## Security Features
 The lab implemented multiple layers of security:
 - Endpoint Detection & Response (EDR)
 - Conditional Access & Multi-Factor Authentication (MFA)
@@ -68,7 +68,7 @@ The lab implemented multiple layers of security:
 
 ---
 
-## 527 Automation & Infrastructure as Code
+## Automation & Infrastructure as Code
 Terraform was used to automate:
 - Azure Sentinel deployment
 - Virtual machine provisioning
@@ -77,12 +77,12 @@ GitHub served as the version control platform for all infrastructure code.
 
 ---
 
-## 4ca SIEM & Monitoring
+## SIEM & Monitoring
 Azure Sentinel provided centralized log aggregation and incident detection. Custom analytics rules, hunting queries, and workbooks were used to monitor and respond to threats.
 
 ---
 
-## 9ea Testing Methodology
+## Testing Methodology
 The lab included rigorous testing:
 - Role-based access validation for Red and Blue teams
 - Device posture checks for encryption, OS version, and compliance
@@ -91,10 +91,5 @@ The lab included rigorous testing:
 
 ---
 
-## 4c1 Images & Diagrams
-> Kevin will include screenshots and architecture diagrams in this section to visually represent the setup and configurations.
-
----
-
-## 4cc Conclusion
+## Conclusion
 This portfolio showcases Kevin's hands-on expertise in building a secure, scalable, and automated cloud-centric organization. It reflects real-world skills in cloud security, device management, and infrastructure automation.
