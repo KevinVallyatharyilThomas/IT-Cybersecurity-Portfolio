@@ -75,7 +75,7 @@ This lab simulates a **real-world enterprise environment** where:
 - Chose an `onmicrosoft.com` base domain.
 - Configured **MFA** and global admin account.
 
-📸 Evidence: `evidence/m365-tenant.png`
+![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%20(21).png)
 
 ---
 
@@ -83,7 +83,7 @@ This lab simulates a **real-world enterprise environment** where:
 - Set up basic Microsoft 365 environment.
 - Verified account and enabled admin roles.
 
-📸 Evidence: `evidence/m365-setup.png`
+📸 Evidence: `evidence/
 
 ---
 
