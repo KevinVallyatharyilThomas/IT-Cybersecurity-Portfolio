@@ -114,6 +114,7 @@ Activated required trial licenses:
 - Used queries for automated assignment.
 
 ![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-08%20160106.png)
+![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-08%20160145.png)
 
 ---
 
