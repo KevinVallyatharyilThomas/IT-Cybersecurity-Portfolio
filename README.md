@@ -103,7 +103,7 @@ Activated required trial licenses:
 - Microsoft Defender for Endpoint (Plan 2)
 - Microsoft 365 Business Premium
 
-📸 Evidence: `evidence/licenses.png`
+![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-08%20155604.png)
 
 ---
 
