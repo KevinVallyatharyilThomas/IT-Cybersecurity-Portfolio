@@ -66,7 +66,9 @@ This lab simulates a **real-world enterprise environment** where:
 - Updated registrar nameservers.
 - Enabled DNS management for future Zero Trust integration.
 
-📸 Evidence: `evidence/cloudflare-dns.png`
+![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/namecheap-cloudflre%20link.png)
+![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/cloudflare-04.png)
+
 
 ---
 
