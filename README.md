@@ -57,7 +57,7 @@ This lab simulates a **real-world enterprise environment** where:
 - Purchased a custom domain via Namecheap/GoDaddy.
 - Will serve as the **primary identity domain** for the organization.
 
-https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/namecheap.png
+![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/namecheap.png)
 
 ---
 
