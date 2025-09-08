@@ -67,8 +67,6 @@ This lab simulates a **real-world enterprise environment** where:
 - Enabled DNS management for future Zero Trust integration.
 
 ![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/namecheap-cloudflre%20link.png)
-![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/cloudflare-04.png)
-
 
 ---
 
