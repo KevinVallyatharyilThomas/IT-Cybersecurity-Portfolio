@@ -113,7 +113,7 @@ Activated required trial licenses:
   - `policy-baseline-windows`
 - Used queries for automated assignment.
 
-📸 Evidence: `evidence/intune-groups.png`
+![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-08%20160106.png)
 
 ---
 
