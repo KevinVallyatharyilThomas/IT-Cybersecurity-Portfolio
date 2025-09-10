@@ -92,7 +92,7 @@ This lab simulates a **real-world enterprise environment** where:
 - Verified DNS through Cloudflare integration.
 - Configured DNS records for **Exchange, SharePoint, Teams, Intune**.
 
-📸 Evidence: `evidence/domain-verification.png`
+![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%20(116).png)
 
 ---
 
