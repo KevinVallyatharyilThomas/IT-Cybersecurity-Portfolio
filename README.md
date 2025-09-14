@@ -131,7 +131,7 @@ Activated required trial licenses:
 - Enabled **automatic Intune enrollment**.
 
 ![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-14%20225124.png)
-
+![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-14%20225641.png)
 ---
 
 ### Step 10 – CIS Baselines & Policies
