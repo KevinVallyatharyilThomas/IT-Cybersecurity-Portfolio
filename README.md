@@ -130,7 +130,7 @@ Activated required trial licenses:
 - Created a **backup global admin** account.
 - Enabled **automatic Intune enrollment**.
 
-📸 Evidence: `evidence/intune-enrollment.png`
+![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-14%20225124.png)
 
 ---
 
