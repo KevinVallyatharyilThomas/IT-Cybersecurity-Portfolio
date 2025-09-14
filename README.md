@@ -153,7 +153,8 @@ Activated required trial licenses:
 - Integrated Defender with Intune.
 - Enabled **EDR in block mode, live response, tamper protection**.
 
-📸 Evidence: `evidence/defender-intune.png`
+![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-14%20233644.png)
+![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-14%20232914.png)
 
 ---
 
