@@ -139,7 +139,13 @@ Activated required trial licenses:
 - Imported **CIS-compliant security, compliance, AV, firewall policies**.
 - Applied dynamically to devices/users.
 
-📸 Evidence: `evidence/cis-policies.png`
+![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-14%20231235.png)
+![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-14%20231140.png)
+![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-14%20230959.png)
+![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-14%20230826.png)
+![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-14%20230814.png)
+![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-14%20230753.png)
+![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-14%20230739.png)
 
 ---
 
