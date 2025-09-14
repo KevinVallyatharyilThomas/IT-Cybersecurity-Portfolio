@@ -122,7 +122,7 @@ Activated required trial licenses:
 - Linked licenses to dynamic groups.
 - All new users/devices get policies & licenses automatically.
 
-📸 Evidence: `evidence/license-assignment.png`
+![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-08%20160106.png)
 
 ---
 
