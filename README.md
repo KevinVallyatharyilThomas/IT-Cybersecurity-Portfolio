@@ -184,6 +184,10 @@ Activated required trial licenses:
 
 ---
 
+### step - email-security
+
+
+
 ### Step 14 – Defender for Office 365
 - Secured **Exchange Online, SharePoint, Teams**.
 - Configured ATP policies.
