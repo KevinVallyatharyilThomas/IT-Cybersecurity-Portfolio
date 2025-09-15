@@ -186,7 +186,11 @@ Activated required trial licenses:
 
 ### step - email-security
 
+![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-15%20095238.png)
+![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-15%20094629.png)
+![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-15%20094234.png)
 
+---
 
 ### Step 14 – Defender for Office 365
 - Secured **Exchange Online, SharePoint, Teams**.
