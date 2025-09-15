@@ -164,7 +164,8 @@ Activated required trial licenses:
 - Collected **hardware ID** for Autopilot onboarding.
 - Enrolled VM into Intune & applied policies.
 
-📸 Evidence: `evidence/vm-autopilot.png`
+![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-15%20080454.png)
+![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-10%20093502.png)
 
 ---
 
