@@ -21,6 +21,7 @@ This project demonstrates the design and deployment of a **cloud-centric organiz
    - [Step 11 – Defender for Endpoint Integration](#step-11--defender-for-endpoint-integration)
    - [Step 12 – Virtual Machine Onboarding](#step-12--virtual-machine-onboarding)
    - [Step 13 – Mobile Device Management (Android/iOS)](#step-13--mobile-device-management-androidios)
+   - [Step  – email secuirty](#step---email-security)
    - [Step 14 – Defender for Office 365](#step-14--defender-for-office-365)
    - [Step 15 – Conditional Access Policies](#step-15--conditional-access-policies)
    - [Step 16 – Azure Sentinel Deployment](#step-16--azure-sentinel-deployment)
