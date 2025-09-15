@@ -205,7 +205,7 @@ Activated required trial licenses:
 - Implemented rules for **Zero Trust access control**.
 - Excluded backup admin from CA enforcement.
 
-📸 Evidence: `evidence/conditional-access.png`
+![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-15%20120222.png)
 
 ---
 
