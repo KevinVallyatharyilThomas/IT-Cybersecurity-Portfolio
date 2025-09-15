@@ -196,7 +196,9 @@ Activated required trial licenses:
 - Secured **Exchange Online, SharePoint, Teams**.
 - Configured ATP policies.
 
-📸 Evidence: `evidence/defender-o365.png`
+![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-15%20114902.png)
+![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-15%20125913.png)
+![alt text](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-15%20124641.png)
 
 ---
 
