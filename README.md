@@ -91,7 +91,7 @@ This comprehensive cybersecurity portfolio project demonstrates the end-to-end d
 - Domain verification processes
 
 **Evidence:** Custom domain verification and service configuration
-![Custom Domain Integration](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%20(116).png)
+![Custom Domain Integration](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/screenshot.png)
 
 ---
 
