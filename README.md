@@ -78,7 +78,7 @@ This comprehensive cybersecurity portfolio project demonstrates the end-to-end d
 - Administrative security best practices
 
 **Evidence:** M365 tenant creation and initial security configuration
-![M365 Tenant Setup](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%20(21).png)
+![M365 Tenant Setup](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot1.png)
 
 ---
 
