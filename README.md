@@ -149,7 +149,7 @@ This comprehensive cybersecurity portfolio project demonstrates the end-to-end d
 - Automated device enrollment configuration
 
 **Evidence:** Intune enrollment and backup admin configuration
-![Backup Admin Setup](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-14%20225124.png)
+![Backup Admin Setup](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/screenshot2.png)
 ![Intune Auto-Enrollment](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-14%20225641.png)
 
 ---
