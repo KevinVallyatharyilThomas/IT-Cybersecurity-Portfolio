@@ -203,8 +203,8 @@ This comprehensive cybersecurity portfolio project demonstrates the end-to-end d
 - Zero-touch device deployment
 
 **Evidence:** Successful Windows device onboarding via Autopilot
-![VM Autopilot Enrollment](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-15%20080454.png)
 ![Hardware ID Collection](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/screenshot3.png)
+![VM Autopilot Enrollment](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/screenshot4.png)
 
 ---
 
