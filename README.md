@@ -50,7 +50,7 @@ This comprehensive cybersecurity portfolio project demonstrates the end-to-end d
 - Forward-thinking infrastructure planning
 
 **Evidence:** Domain registration and Cloudflare DNS configuration
-![Domain Setup](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/namecheap.png)
+![Domain Setup](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/2025-09-25%20-%20kevin1.png)
 
 ---
 
