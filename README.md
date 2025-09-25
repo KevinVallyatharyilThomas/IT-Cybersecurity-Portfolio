@@ -63,7 +63,7 @@ This comprehensive cybersecurity portfolio project demonstrates the end-to-end d
 - Network infrastructure planning
 
 **Evidence:** Successful DNS delegation to Cloudflare
-![Cloudflare Configuration](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/cloudflare-04.png)
+![Cloudflare Configuration](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/2025-09-25%20-%20kevin.png)
 
 ---
 
