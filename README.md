@@ -204,7 +204,7 @@ This comprehensive cybersecurity portfolio project demonstrates the end-to-end d
 
 **Evidence:** Successful Windows device onboarding via Autopilot
 ![VM Autopilot Enrollment](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-15%20080454.png)
-![Hardware ID Collection](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-10%20093502.png)
+![Hardware ID Collection](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/screenshot3.png)
 
 ---
 
