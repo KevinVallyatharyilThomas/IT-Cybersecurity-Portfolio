@@ -221,7 +221,7 @@ This comprehensive cybersecurity portfolio project demonstrates the end-to-end d
 ![Android Enterprise Setup](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-15%20083341.png)
 ![App Protection Policies](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-15%20083607.png)
 ![Managed Google Play](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-15%20084238.png)
-![Work Profile Configuration](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-15%20083058.png)
+![Work Profile Configuration](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/screenshot5.png)
 ![Device Enrollment](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%202025-09-15%20083503.png)
 ![Mobile Device Management](https://github.com/KevinVallyatharyilThomas/IT-Cybersecurity-Portfolio/blob/main/Screenshots/Screenshot%20(117).png)
 
